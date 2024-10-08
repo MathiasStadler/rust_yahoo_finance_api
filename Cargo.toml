@@ -1,0 +1,8 @@
+[package]
+name = "rust_yahoo_finance_api"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cargo-edit = "0.13.0"
+rustfmt = "0.10.0"

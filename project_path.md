@@ -4,20 +4,20 @@
 
 ```bash
 date
-Di 20. Aug 07:44:16 UTC 2024
+Tue  8 Oct 10:08:29 UTC 2024
 ```
 
 - rustc --version
 
 ```bash
-rustc 1.80.1 (3f5fd8dd4 2024-08-06)
+rustc 1.81.0 (eeb90cda1 2024-09-04)
 ```
 
 ``` bash
 rustc --version
-rustc 1.80.1 (3f5fd8dd4 2024-08-06)
+rustc 1.81.0 (eeb90cda1 2024-09-04)
 cargo --version
-cargo 1.80.1 (376290515 2024-07-16)
+cargo 1.81.0 (2dbb1af80 2024-08-20)
 ```
 
 ## create rust project folder
@@ -25,7 +25,7 @@ cargo 1.80.1 (376290515 2024-07-16)
 ```bash
 cd 
 cd workspace_rust
-RUST_PROJECT_NAME="rust_stock_multipanel"
+RUST_PROJECT_NAME="rust_yahoo_finance_api"
 mkdir $RUST_PROJECT_NAME && cd $_
 ```
 
