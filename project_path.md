@@ -67,6 +67,15 @@ cargo build
 - rust-analyser
 - spell-checker  /code-spell-checker
 
+
+## add create special for this project
+
+```bash
+cargo add time
+cargo add tokio
+cargo add tokio-test
+```
+
 ## add crate for project
 
 ```bash

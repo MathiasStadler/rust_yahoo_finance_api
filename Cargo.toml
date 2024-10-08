@@ -6,3 +6,6 @@ edition = "2021"
 [dependencies]
 cargo-edit = "0.13.0"
 rustfmt = "0.10.0"
+time = "0.3.36"
+tokio = "1.40.0"
+tokio-test = "0.4.4"
